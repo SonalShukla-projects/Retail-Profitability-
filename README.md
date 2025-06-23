@@ -9,8 +9,6 @@ This project analyzes online retail transactional data to uncover key performanc
 - Cleaned and prepared dataset using **Python (Pandas)**.
 - Built an **interactive Power BI dashboard** with key visualizations.
 - Analyzed **monthly revenue, top products, returns, and country-wise sales**.
-- Generated a **2-page PDF report** with strategic recommendations.
-
 ---
 
 ## 📁 Dataset
@@ -51,8 +49,4 @@ This project analyzes online retail transactional data to uncover key performanc
 - ✅ Power BI Dashboard
 - ✅ Final report
 
----
-
-
----
 
